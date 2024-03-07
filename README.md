@@ -1,6 +1,6 @@
 ## Description
 
-[Your App Name] is an Android application built with Kotlin that demonstrates a simple user authentication system using Firebase Authentication. The program allows users to register a new account or log in using their email and password. Firebase Authentication provides a secure and reliable way to handle user authentication, making it easy to integrate robust sign-up and login functionality into your Android apps.
+This is an Android application built with Kotlin that demonstrates a simple user authentication system using Firebase Authentication. The program allows users to register a new account or log in using their email and password. Firebase Authentication provides a secure and reliable way to handle user authentication, making it easy to integrate robust sign-up and login functionality into your Android apps.
 
 ## Features
 
@@ -24,5 +24,3 @@
 4. Build and run the application on an Android emulator or physical device.
 
 Feel free to explore, enhance, and customize this Firebase Register/Login Kotlin program for your specific project needs. Contributions and feedback are welcome!
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
